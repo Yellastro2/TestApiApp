@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.TestApiApp" parent="Theme.AppCompat.NoActionBar" />
+    <style name="text_accent">
+        <item name="android:background">#70E64242</item>
+        <item name="android:paddingHorizontal">16dp</item>
+    </style>
+</resources>
